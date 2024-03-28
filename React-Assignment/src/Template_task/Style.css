@@ -1,0 +1,131 @@
+/*  */
+
+.nav-main{
+    width: 600px;
+    border: 2px solid #3bb77e;
+    margin-left: 100px;
+    
+
+}
+
+
+
+.hov-images {
+    background-image: url(https://nest-frontend-v6.netlify.app/assets/imgs/banner/banner-menu.png);
+    background-repeat: no-repeat;
+    height: 330px;
+    width: 600px;
+    margin-left: 50px;
+
+}
+
+.img-title {
+    margin-top: 80px;
+}
+
+.img-title p {
+    font-size: 17px;
+    margin-left: 20px;
+    color: grey;
+}
+
+.img-title h3 {
+    margin-left: 20px;
+}
+
+.img-title span {
+
+    margin-left: 20px;
+    font-size: 25px;
+    color: #40b982;
+}
+
+.img-title button {
+
+    margin-left: 30px;
+    height: 30px;
+    color: white;
+    background-color: #40b982;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    border: none;
+}
+
+.img-title button:hover {
+    background-color: #FD6E6E;
+}
+
+.slider-responsiv {
+
+    text-align: start;
+    color: black;
+
+}
+
+.slider-responsiv h3 {
+    margin-top: -370px;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #253d4e;
+
+}
+
+.slider-responsiv p {
+    font-size: 30px;
+    color: #7E7E7E;
+}
+
+.slider-contain input {
+    height: 55px;
+    border-radius: 25px;
+    width: 350px;
+    border: none;
+    outline: none;
+}
+
+.slider-contain button {
+    height: 55px;
+    border-radius: 25px;
+    width: 150px;
+    margin-left: -60px;
+    border: none;
+    background-color: #3BB77E;
+    color: white;
+    font-weight: 600;
+}
+
+.ico-img {
+    position: relative;
+    left: 30px;
+}
+
+.slider-contain input::placeholder {
+    margin: 20px;
+    padding: 30px;
+}
+
+.nav-hover:hover {
+    color: #3BB77E;
+}
+
+.main-link a {
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.main-link span{
+    font-size: 25px;
+    margin: 70px;
+    font-weight: 700;
+}
+.main-link a:hover{
+    color: #24c97c;
+    
+}
+.font-1{
+    font-size: 15px;
+}
